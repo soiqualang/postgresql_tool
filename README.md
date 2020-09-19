@@ -1,4 +1,4 @@
 # postgresql_tool
 postgresql_tool
 
-https://dothanhlong.org/postgresql_tool/
+http://apps.dothanhlong.org/postgresql_tool/
